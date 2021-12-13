@@ -3,6 +3,9 @@
     padding: 0;
     margin: 0;
 }
+body {
+    background-color: black;
+}
 .navbar {
     display: flex;
     align-items: center;
@@ -43,8 +46,12 @@ font-family: 'PT Sans Caption', sans-serif;
 .container {
     margin: 10px 10px;
     display: flex;
-   
-}
+  
+   }
+.container .left{
+    background-color:gray;
+    width: 60%;
+   }
 .container .left .title {
     color:dodgerblue;
     font-size: 20px;
@@ -55,6 +62,14 @@ font-family: 'PT Sans Caption', sans-serif;
     font-size: 15px;
     font-family:cursive;
 }
+.container .right {
+    width: 40%;
+    padding: 30px;
+}
+.container .right img {
+    width: 100%;
+}
+
 
  
 
