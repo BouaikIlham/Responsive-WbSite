@@ -6,11 +6,11 @@
 - In mobile 
 
 ![Responsive-WbSite](image/image3.jpg)
-- Using
-    Media Query
-- Authors 
+- Using :
+    - Media Query
+- Authors :
     -  GitHub : [@bouaik ilham](https://github.com/BouaikIlham)
-- 🤝 Contributing
+- 🤝 Contributing :
 
     Contributions, issues and feature requests are welcome!
 - Show your support
