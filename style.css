@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Caption&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    background-color: #2c3e50;
+    justify-content: space-around;
+    
+}
+.navbar .logo  img{
+    width: 20%;
+    height: 20%;
+    padding: 10px 20px;
+}
+ .links ul  {
+    list-style: none;
+    display: flex;
+    }
+.links ul  a {
+text-decoration: none;
+color: blanchedalmond;
+margin: 0 10px;
+font-size: 25px;
+font-family: 'PT Sans Caption', sans-serif;
+}
+.links ul  a:hover {
+    color: burlywood;
+    font-weight: bold;
+}
+
+
